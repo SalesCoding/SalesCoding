@@ -1,7 +1,7 @@
 ### Olá ! Eu sou o Felipe Sales
 
 
-- 🌱 Estudando Html/css/JS/React/Node
+- 🌱 Estudando Html/css/JS/React/Node/PYTHON
 - 😄 Pronouns: ele/dele
 
 <div>
