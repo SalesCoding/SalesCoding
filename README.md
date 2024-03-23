@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudando Html/css/JS/React/Node/PYTHON
-- 😄 Pronouns: ele/dele
+- 😄 
 
 <div>
   <a href="https://www.instagram.com/mecsales2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
